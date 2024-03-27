@@ -6,7 +6,9 @@
 
 ### 2. [Belly Button HTML Link](https://github.com/AlanBigData/belly-button-challenge/blob/main/index.html)
 
-  **Belly Button Charts WebPage - Click The Image**
-  ![bellybuttonwebpage-alanlawrence](https://alanbigdata.github.io/belly-button-challenge/)
+  **Belly Button Charts WebPage**
+  ![All Belly Button Charts](https://github.com/AlanBigData/belly-button-challenge/assets/103456718/fa2c93e1-7c7b-49ee-8337-8885ed7441c1)
+
+  [Click here to visit the Belly Button Challenge webpage](https://alanbigdata.github.io/belly-button-challenge/)
 
 
